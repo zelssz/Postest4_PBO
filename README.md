@@ -1,6 +1,6 @@
-🧥 Manajemen Koleksi Fashion — Data Pribadi
+#🧥 Manajemen Koleksi Fashion — Data Pribadi
 
-🚀 Fitur Utama
+🚀 Fitur Utama:
 
 🆕 Tambah item baru (nama, kategori, ukuran, warna, brand, tahun).
 
